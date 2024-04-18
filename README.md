@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Sophomore in Christ | MERN Stack Developer<br><br>🔍 Passionate seeker of both spiritual and technological growth, I am a sophomore in Christ walking the path of faith while diving deep into the world of web development. 🙏💻 As a MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer, I thrive on crafting dynamic, responsive, and user-friendly web applications that make a positive impact. 💼💡 With a heart grounded in faith and a mind wired for innovation, I seek to blend the realms of spirituality and technology to create meaningful solutions that uplift and empower others. Let's build a brighter, more connected future together! 🚀✨
+👩‍💻 Sophomore in Christ | MERN Stack Developer<br><br>🔍 Passionate seeker of both spiritual and technological growth, I am a sophomore in Christ walking the path of faith while diving deep into the world of web development. 💻 As a MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer, I thrive on crafting dynamic, responsive, and user-friendly web applications that make a positive impact. 💼💡 With a heart grounded in faith and a mind wired for innovation, I seek to blend the realms of spirituality and technology to create meaningful solutions that uplift and empower others. Let's build a brighter, more connected future together! 🚀✨
 
 
 ## 🌐 Socials:
